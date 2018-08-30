@@ -1,0 +1,29 @@
+body {
+	background: #ffffff;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 16px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+style{
+	background-image: url(../img/);
+}
+
+.hidden{
+	display:none;
+
+}
+
+h1
+
